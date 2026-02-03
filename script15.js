@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "YAY!! I love u too sara (: ";
+  question.innerHTML = "YAY!! I love u too Ann (: ";
   gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4dHlicm1hZmEybHZnMml3bXJidWN1NTduOGd2NXIyOWlkc3VrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M6T9NNrW22OEX8Ve3h/giphy.gif";
 });
 
